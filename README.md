@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/willemjenniskens/myFirstPipeline/_apis/build/status/willemjenniskens.pipelines-java?branchName=master)](https://dev.azure.com/willemjenniskens/myFirstPipeline/_build/latest?definitionId=2&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
